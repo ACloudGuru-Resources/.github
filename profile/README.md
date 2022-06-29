@@ -4,4 +4,4 @@ Welcome to the **ACloudGuru-Resources** GitHub, where we store resources for man
 
 If you have any issues, please reach out to us at <support@acloud.guru>! 
 
-![A Cloud Guru - A Pluralsight Company](logo.png)
+![A Cloud Guru - A Pluralsight Company](/profile/logo.png)
